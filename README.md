@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="Bekzat — backend development, APIs and data integrity" width="100%" /></p>
+<p align="center"><img src="assets/header-v2.svg" alt="Bekzat — backend development, APIs and data integrity" width="100%" /></p>
 
 <p align="center"><b>Backend engineering · Team integration · Practical QA</b><br/>Python, APIs, persistence and reviewable delivery — with a growing set of team projects.</p>
 
@@ -17,9 +17,8 @@ This portfolio separates **what each product does** from **what I contributed**.
 | **BCC Shield / Guardian** | FinTech prototype · consent-aware integrations | [View project](#project-3) |
 | **Green Pavlodar** | CivicTech · planning and tracking urban greenery | [View project](#project-4) |
 | **Qazaq Loc QA** | Developer tooling · Russian → Kazakh localization | [View project](#project-5) |
-| **Predas / AsBoljam** | Food service · forecasting and procurement | [View project](#project-6) |
-| **Adal** | EdTech · local classroom proctoring | [View project](#project-7) |
-| **Таңда / Tanda** | EventTech · explainable contractor recommendations | [View project](#project-8) |
+| **Adal** | EdTech · local classroom proctoring | [View project](#project-6) |
+| **Таңда / Tanda** | EventTech · explainable contractor recommendations | [View project](#project-7) |
 
 ---
 
@@ -150,32 +149,7 @@ Game localization needs explainable technical and language checks, with human de
 
 <a id="project-6"></a>
 
-## 06 · Predas / AsBoljam
-
-**Food service · forecasting and procurement**
-
-Food-service operators need to connect demand forecasts with stock, purchasing and the actual result at the end of the day.
-
-<table><tr>
-<td width="50%" valign="top"><a href="https://raw.githubusercontent.com/bltangenss/asboljam-diploma/main/artifacts/screenshots/dashboard-desktop.png"><img src="https://raw.githubusercontent.com/bltangenss/asboljam-diploma/main/artifacts/screenshots/dashboard-desktop.png" alt="Dashboard — archived prototype screenshot" width="100%" /></a><br/><sub>Dashboard — archived prototype screenshot</sub></td>
-<td width="50%" valign="top"><a href="https://raw.githubusercontent.com/bltangenss/asboljam-diploma/main/artifacts/screenshots/procurement-desktop.png"><img src="https://raw.githubusercontent.com/bltangenss/asboljam-diploma/main/artifacts/screenshots/procurement-desktop.png" alt="Procurement — archived prototype screenshot" width="100%" /></a><br/><sub>Procurement — archived prototype screenshot</sub></td>
-</tr></table>
-
-**Product capabilities:** Forecast dashboards; uncertainty views; procurement planning; working-day flows; forecast-versus-actual review.
-
-**My contribution:** Demo and acceptance work: a reproducible battle-stand script, click path and day-close demonstration, plus local/cloud stand warm-up and click-path checks. The forecasting implementation is a team contribution, not claimed as my sole work.
-
-**Project stack:** React · TypeScript · FastAPI · SQLAlchemy · SQLite / PostgreSQL
-
-**Status & scope:** Work-in-progress prototype. The repository documents incomplete browser acceptance and release limitations.
-
-[Repository](https://github.com/bltangenss/asboljam-diploma) · [My contribution evidence](https://github.com/bltangenss/asboljam-diploma/pull/2)
-
----
-
-<a id="project-7"></a>
-
-## 07 · Adal
+## 06 · Adal
 
 **EdTech · local classroom proctoring**
 
@@ -198,9 +172,9 @@ A classroom needs reviewable exam-session events while keeping computer-vision p
 
 ---
 
-<a id="project-8"></a>
+<a id="project-7"></a>
 
-## 08 · Таңда / Tanda
+## 07 · Таңда / Tanda
 
 **EventTech · explainable contractor recommendations**
 
