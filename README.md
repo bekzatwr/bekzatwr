@@ -12,6 +12,7 @@ This portfolio separates **what each product does** from **what I contributed**.
 
 | Project | Focus | Explore |
 | :--- | :--- | :--- |
+| **CardioTracker** | Personal project · heart-failure research | [View project](#cardiotracker) |
 | **Data-Driven Curriculum** | EdTech · evidence-informed teaching | [View project](#project-1) |
 | **Qadam Business** | Small business · sales, debts and daily operations | [View project](#project-2) |
 | **BCC Shield / Guardian** | FinTech prototype · consent-aware integrations | [View project](#project-3) |
@@ -19,6 +20,27 @@ This portfolio separates **what each product does** from **what I contributed**.
 | **Qazaq Loc QA** | Developer tooling · Russian → Kazakh localization | [View project](#project-5) |
 | **Adal** | EdTech · local classroom proctoring | [View project](#project-6) |
 | **Таңда / Tanda** | EventTech · explainable contractor recommendations | [View project](#project-7) |
+
+---
+
+<a id="cardiotracker"></a>
+
+## CardioTracker · Personal project
+
+**HealthTech research · heart-failure assessment and monitoring**
+
+My personal web application explores how structured assessments, changes over time and an interactive heart model can make heart-failure research easier to navigate.
+
+**Product capabilities:** structured clinical and laboratory inputs; dynamics over time; an interactive 3D heart model; a separate research workflow comparing Logistic Regression, Random Forest and optional XGBoost.
+
+**My contribution:** personal project development across the application, API integration and research workflow.
+
+**Project stack:** React · TypeScript · Three.js · Vite · Python · FastAPI · machine learning.
+
+**Status & scope:** educational and research prototype, not a clinically validated diagnostic tool. The source repository remains private. No patient records, private source code or clinical results are published in this portfolio.
+
+*Interface screenshots are not published yet; a generic illustration is not presented as an application screenshot.*
+
 
 ---
 
@@ -201,7 +223,7 @@ Event customers need a useful shortlist and an explanation when their date, city
 
 - **[website](https://github.com/bekzatwr/website)** — an empty repository at this portfolio review. There is no published UI to screenshot yet; it is not presented as a finished website.
 - **[bekzatwr](https://github.com/bekzatwr/bekzatwr)** — this profile's README and custom SVG banner.
-- Private repositories are not reproduced here. This gallery covers the public projects identified in my repositories and public team contributions.
+- Private source code is not reproduced here. CardioTracker is described with my permission; its repository remains private. The other projects link to public team repositories.
 
 ## Engineering focus
 
