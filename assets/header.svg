@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Bekzat — Backend development</title>
+  <desc id="desc">Python, APIs, data integrity. Building software that works beyond the demo.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#152c40"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="#60a5fa" opacity=".13">
+    <circle cx="1080" cy="160" r="220"/><circle cx="1080" cy="160" r="160"/><circle cx="1080" cy="160" r="100"/>
+    <path d="M790 0v320M910 0v320M1030 0v320M1150 0v320M760 80h440M760 160h440M760 240h440"/>
+  </g>
+  <rect x="58" y="54" width="48" height="4" rx="2" fill="url(#accent)"/>
+  <text x="58" y="105" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4" fill="#5eead4">BACKEND DEVELOPMENT</text>
+  <text x="54" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" fill="#f8fafc">Hi, I'm Bekzat.</text>
+  <text x="58" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#cbd5e1">Building software that works beyond the demo.</text>
+  <text x="58" y="277" font-family="Consolas,monospace" font-size="16" fill="#7dd3fc">PYTHON / APIs / DATA INTEGRITY</text>
+  <g transform="translate(950 112)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m20 10-35 38 35 38M100 10l35 38-35 38M76 0 44 96"/>
+  </g>
+</svg>
