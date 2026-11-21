@@ -1,4 +1,6 @@
-<p align="center"><img src="assets/header-v2.svg" alt="Bekzat — backend development, APIs and data integrity" width="100%" /></p>
+<p align="center">
+  <img src="./assets/typewriter-intro.svg" alt="Bekzat Zhorabek — terminal session" width="100%" />
+</p>
 
 <p align="center"><b>Backend engineering · Team integration · Practical QA</b><br/>Python, APIs, persistence and reviewable delivery — with a growing set of team projects.</p>
 
@@ -7,16 +9,6 @@
 I'm **Bekzat**. I build and integrate server-side features, validate failure paths, and help turn independently developed modules into a working product. My project work also includes frontend workflows, bilingual documentation and reproducible demos.
 
 This portfolio separates **what each product does** from **what I contributed**. These are team projects: interface screenshots show the shared product, not a claim that I built every screen. Images below are existing public repository evidence, not fresh production acceptance tests.
-
-## 3D Contribution Tower
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Bekzat's real GitHub contributions shown as a 3D calendar" width="100%" />
-</picture>
-
-<sub>My GitHub contribution activity, generated daily from GitHub data. Each tower represents a day; height reflects contribution count.</sub>
 
 ## Project index
 
