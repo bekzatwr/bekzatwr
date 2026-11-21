@@ -8,6 +8,16 @@ I'm **Bekzat**. I build and integrate server-side features, validate failure pat
 
 This portfolio separates **what each product does** from **what I contributed**. These are team projects: interface screenshots show the shared product, not a claim that I built every screen. Images below are existing public repository evidence, not fresh production acceptance tests.
 
+## 3D Contribution Tower
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Bekzat's real GitHub contributions shown as a 3D calendar" width="100%" />
+</picture>
+
+<sub>My GitHub contribution activity, generated daily from GitHub data. Each tower represents a day; height reflects contribution count.</sub>
+
 ## Project index
 
 | Project | Focus | Explore |
